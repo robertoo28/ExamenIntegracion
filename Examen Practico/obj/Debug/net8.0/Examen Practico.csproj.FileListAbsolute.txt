@@ -1,0 +1,5 @@
+C:\Users\User\RiderProjects\Examen Practico\Examen Practico\obj\Debug\net8.0\Examen Practico.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Examen Practico\Examen Practico\obj\Debug\net8.0\Examen Practico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Examen Practico\Examen Practico\obj\Debug\net8.0\Examen Practico.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Examen Practico\Examen Practico\obj\Debug\net8.0\Examen Practico.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Examen Practico\Examen Practico\obj\Debug\net8.0\Examen Practico.csproj.CoreCompileInputs.cache
